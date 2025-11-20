@@ -1,0 +1,73 @@
+{
+    "reminder": "every 2hr",
+    "book_name": "bk_worklog",
+    "usr_folder": "user_data",
+    "test_book_name": "worklog",
+    "test_folder": "test",
+    "sheet_names": [
+        "PI",
+        "Sprint",
+        "PI&Sprint"
+    ],
+    "launch_times": [
+        "09:00",
+        "14:00",
+        "17:20",
+        "19:50"
+
+    ],
+    "reminders": {
+        "is_enabled": true,
+        "selected": "every 5min",
+        "options": {
+            "every 5min":5,
+            "every 15min":15,
+            "every 30min":30,
+            "every 1hr":60,
+            "every 2hr":120,
+            "every 3hr":180,
+            "every 4hr":240,
+            "every 6hr":360,
+            "every 8hr":480,
+            "every 12hr":720,
+            "every day":1440
+        }
+    },
+    "is_history_enabled": "false",
+    "launch_on_startup": true,
+    "last_pi": "PI2",
+    "last_sprint": "12",
+    "last_mode": "PI",
+    "Work_book_Header": [
+        "Date",
+        "Time",
+        "Weeknumber",
+        "PI_Sprint",
+        "Story points",
+        "Task Name",
+        "Comments",
+        "Progress",
+        "Time spent",
+        "Remaining time",
+        "Total time spent",
+        "Supported links"
+    ],
+    "work_book_sample_data": 
+        {
+            "Date": "2024-06-01",
+            "Time": "09:00",
+            "Weeknumber": "W46",
+            "PI_Sprint": "PI0_Sprint0",
+            "Story points": "5",
+            "Task Name": "Initial setup",
+            "Comments": "Set up project repository and initial files.",
+            "Progress": "Completed",
+            "Time spent": "0h",
+            "Remaining time": "0h",
+            "Total time spent": "0h",
+            "Supported links": "http://example.com/setup"
+        },
+        "web_page_url":"http://localhost:",
+        "port":8000
+    
+}
