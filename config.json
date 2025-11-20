@@ -1,0 +1,44 @@
+{
+    "book_name": "bk_worklog",
+    "usr_folder": "user_data",
+    "test_book_name": "worklog",
+    "test_folder": "test",
+    "launch_times": [
+        "09:00",
+        "14:00",
+        "17:20",
+        "19:50"
+    ],
+    "is_history_enabled": "false",
+    "launch_on_startup": "true",
+    "Work_book_Header": [
+        "Date",
+        "Time",
+        "Weeknumber",
+        "PI_Sprint",
+        "Story points",
+        "Task Name",
+        "Comments",
+        "Progress",
+        "Time spent",
+        "Remaining time",
+        "Total time spent",
+        "Supported links",
+        "last updated"
+    ],
+    "work_book_sample_data": {
+        "Date": "2024-06-01",
+        "Time": "09:00",
+        "Weeknumber": "W46",
+        "PI_Sprint": "PI0_Sprint0",
+        "Story points": "5",
+        "Task Name": "Initial setup",
+        "Comments": "Set up project repository and initial files.",
+        "Progress": "Completed",
+        "Time spent": "0h",
+        "Remaining time": "0h",
+        "Total time spent": "0h",
+        "Supported links": "http://example.com/setup",
+        "last updated": "2024-06-01 09:00:00"
+    }
+}
